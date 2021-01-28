@@ -1,15 +1,14 @@
-# ids705_ml_ta
-IDS705 Machine Learning TA
+# IDS705 Machine Learning TA
 
-# Coding Sessions
+## Coding Sessions
 
-## Session 1
+### Session 1
 [Notebook](session1.ipynb)
 - Environments
 - Jupyter basics
 - Latex
 - Submission tips
 
-## Session 2
+### Session 2
 - Numpy functions
 - Linear algebra to code
