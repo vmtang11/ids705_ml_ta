@@ -4,6 +4,7 @@ IDS705 Machine Learning TA
 # Coding Sessions
 
 ## Session 1
+[Notebook](session1.ipynb)
 - Environments
 - Jupyter basics
 - Latex
