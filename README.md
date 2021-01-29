@@ -10,5 +10,6 @@
 - Submission tips
 
 ### Session 2
+[Notebook](session2.ipynb]
 - Numpy functions
 - Linear algebra to code
